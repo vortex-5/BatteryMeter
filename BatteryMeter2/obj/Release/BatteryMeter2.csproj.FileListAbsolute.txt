@@ -1,0 +1,12 @@
+C:\Documents and Settings\Vortex-5\My Documents\Visual Studio 2005\Projects\BatteryMeter2\BatteryMeter2\bin\Release\BatteryMeter2.exe.config
+C:\Documents and Settings\Vortex-5\My Documents\Visual Studio 2005\Projects\BatteryMeter2\BatteryMeter2\obj\Release\BatteryMeter2.exe
+C:\Documents and Settings\Vortex-5\My Documents\Visual Studio 2005\Projects\BatteryMeter2\BatteryMeter2\obj\Release\BatteryMeter2.pdb
+C:\Documents and Settings\Vortex-5\My Documents\Visual Studio 2008\Projects\BatteryMeter2\BatteryMeter2\bin\Release\BatteryMeter2.exe.config
+C:\Documents and Settings\Vortex-5\My Documents\Visual Studio 2008\Projects\BatteryMeter2\BatteryMeter2\obj\Release\BatteryMeter2.exe
+C:\Documents and Settings\Vortex-5\My Documents\Visual Studio 2008\Projects\BatteryMeter2\BatteryMeter2\obj\Release\BatteryMeter2.pdb
+C:\Documents and Settings\Vortex-5\My Documents\Visual Studio 2008\Projects\BatteryMeter2\BatteryMeter2\bin\Release\BatteryMeter2.exe
+C:\Documents and Settings\Vortex-5\My Documents\Visual Studio 2008\Projects\BatteryMeter2\BatteryMeter2\bin\Release\BatteryMeter2.pdb
+C:\Documents and Settings\Vortex-5\My Documents\Visual Studio 2008\Projects\BatteryMeter2\BatteryMeter2\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Vortex-5\My Documents\Visual Studio 2008\Projects\BatteryMeter2\BatteryMeter2\obj\Release\BatteryMeter2.BatteryDisplay.resources
+C:\Documents and Settings\Vortex-5\My Documents\Visual Studio 2008\Projects\BatteryMeter2\BatteryMeter2\obj\Release\BatteryMeter2.Properties.Resources.resources
+C:\Documents and Settings\Vortex-5\My Documents\Visual Studio 2008\Projects\BatteryMeter2\BatteryMeter2\obj\Release\BatteryMeter2.csproj.GenerateResource.Cache
